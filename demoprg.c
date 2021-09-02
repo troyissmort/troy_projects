@@ -1,5 +1,6 @@
 #include<stdio.h>
 void main()
 {
-    pritnf("Hello Github!");
+    pritnf("Hello Coders!");
+    printf("Second message");
 }
